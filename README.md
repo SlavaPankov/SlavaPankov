@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hello there 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My+name+is+Svyatoslav+Pankov,+I'm+a+Frontend+Developer)](https://git.io/typing-svg)
 <!--
 **SlavaPankov/SlavaPankov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
