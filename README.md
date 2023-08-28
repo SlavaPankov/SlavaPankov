@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=700&lines=My+name+is+Svyatoslav%2C+I'+m+a+Frontend+Developer)](https://git.io/typing-svg)
 
 #### Nice to meet you here, you can help me increase this counter!  
-![](https://komarev.com/ghpvc/?username=valr0lipsk)
+![](https://komarev.com/ghpvc/?username=SlavaPankov)
 
 ###### My current techs stack is: 
 
